@@ -10,7 +10,7 @@ body{
 	width: 100vw;
 	background-image: url(Static/Background2.jpg);
 	opacity: 0.87;
-	background-size: 100vw 65vh ;
+	background-size: 100vw 50vh ;
 	background-attachment: fixed;
 	/*background-repeat: no-repeat;*/
 }
